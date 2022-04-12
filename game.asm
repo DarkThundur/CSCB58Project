@@ -30,10 +30,11 @@
 # 8. Start Menu: W S to select P to enter selection  [1]
 # Link to video demonstration for final submission: 
 # - (insert YouTube / MyMedia / other URL here). Make sure we can view it! 
-# 
+#  https://play.library.utoronto.ca/watch/d18d3e866d2b912e185feed629bc2315
 # Are you OK with us sharing the video with people outside course staff? 
 # - yes / no / yes, and please share this project github link as well! 
 # yes 
+# https://github.com/DarkThundur/CSCB58Project
 # Any additional information that the TA needs to know: 
 # I used this tool made by a previous years student to import sprites: https://github.com/Epicsteve2/CSCB58_Project/blob/main/src/RGBAtoASM.py
 # Be sure to have numpad keys on for dashing 7,8,9,4,6,1,2,3 to dash in diagonal and cardinal directions
